@@ -1,0 +1,25 @@
+if(.Platform$OS.type=='windows')invisible(Sys.setlocale('LC_CTYPE','English_United States.utf8'))
+invisible(Sys.setlocale('LC_COLLATE','C'))
+.libPaths(c(file.path(dirname(getwd()),'adsc_il17_rnaseq','.Rlibrary'),.libPaths()))
+suppressPackageStartupMessages(library(DESeq2))
+O='round3_20260914';a=jsonlite::fromJSON(file.path(O,'cache/sender_input_audit.json'))
+m=a$metadata;m$replicate=factor(m$replicate);m$time=factor(m$time,levels=c('0','3','12','24'));rownames(m)=m$sample
+c=as.matrix(read.csv(gzfile(file.path(O,'cache/sender_gene_counts.csv.gz')),row.names=1,check.names=FALSE))
+stopifnot(identical(colnames(c),m$sample));c=round(c)
+keep=rowSums(c>=10)>=3;c=c[keep,]
+design_matrix=model.matrix(~replicate+time,m);stopifnot(qr(design_matrix)$rank==ncol(design_matrix))
+dds=DESeqDataSetFromMatrix(c,m,~replicate+time)
+dds=DESeq(dds,test='Wald',sfType='ratio',minReplicatesForReplace=Inf,parallel=FALSE)
+ann=read.csv(file.path(O,'cache/sender_gene_annotation.csv'))
+res=lapply(c('3','12','24'),function(t){
+ x=results(dds,contrast=c('time',t,'0'),alpha=.05,independentFiltering=FALSE)
+ z=data.frame(gene_id=rownames(x),as.data.frame(x),check.names=FALSE)
+ z$gene_name=ann$gene_name[match(z$gene_id,ann$gene_id)];z$gene_type=ann$gene_type[match(z$gene_id,ann$gene_id)]
+ z$converged=mcols(dds)$betaConv;z
+});names(res)=c('3_vs_0','12_vs_0','24_vs_0')
+norm=counts(dds,normalized=TRUE)
+saveRDS(dds,file.path(O,'cache/sender_dds.rds'))
+saveRDS(list(results=res,normalized=norm,raw=counts(dds),metadata=m,input_audit=a),file.path(O,'cache/sender_fit.rds'))
+stats=do.call(rbind,lapply(names(res),function(n){x=res[[n]];data.frame(contrast=n,tested=nrow(x),up=sum(x$padj<.05&x$log2FoldChange>0,na.rm=TRUE),down=sum(x$padj<.05&x$log2FoldChange<0,na.rm=TRUE),nonconverged=sum(!x$converged,na.rm=TRUE),missing_p=sum(is.na(x$pvalue)))}))
+print(stats,row.names=FALSE)
+jsonlite::write_json(list(summary=stats,size_factors=as.list(sizeFactors(dds)),design=deparse(design(dds)),results_names=resultsNames(dds),limitations=a$limitations),file.path(O,'cache/sender_fit_summary.json'),pretty=TRUE,auto_unbox=TRUE)

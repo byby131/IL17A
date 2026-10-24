@@ -1,0 +1,11 @@
+﻿library,contrast,database_sets,eligible_sets,saved_tested_sets,minSize,maxSize,full_eligible_library_confirmed
+Hallmark,12_vs_0,50,49,49,15,500,True
+Hallmark,12_vs_3,50,49,49,15,500,True
+Hallmark,24_vs_0,50,49,49,15,500,True
+Hallmark,24_vs_3,50,49,49,15,500,True
+Hallmark,3_vs_0,50,49,49,15,500,True
+Reactome,12_vs_0,1787,975,975,15,500,True
+Reactome,12_vs_3,1787,975,975,15,500,True
+Reactome,24_vs_0,1787,975,975,15,500,True
+Reactome,24_vs_3,1787,975,975,15,500,True
+Reactome,3_vs_0,1787,975,975,15,500,True

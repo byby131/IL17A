@@ -1,0 +1,6 @@
+﻿contrast,direction,model_genes,ranked_unique_Entrez,BH_max_error,Wald_rank_max_error,missing_p,missing_padj
+3_vs_0,first_time minus second_time,14425,13225,4.582272061792736e-15,0.0,0,0
+12_vs_0,first_time minus second_time,14425,13225,1.5543122344752192e-15,0.0,0,0
+24_vs_0,first_time minus second_time,14425,13225,1.4432899320127035e-15,0.0,0,0
+12_vs_3,first_time minus second_time,14425,13225,1.4432899320127035e-15,0.0,0,0
+24_vs_3,first_time minus second_time,14425,13225,1.3322676295501878e-15,0.0,0,0

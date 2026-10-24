@@ -1,0 +1,52 @@
+{
+  "original_manifest_files": 208,
+  "directory_all_checks_pass": true,
+  "original_zip": "SupplementaryFigure3_SourceData_20261009.zip",
+  "original_zip_sha256": "7398d6f86f987155f4df8ed6ae541a14dce3a06599f7cab827ac15f9a2039a21",
+  "original_zip_CRC_bad_member": null,
+  "original_zip_manifest_all_pass": true,
+  "counts_shape": [
+    232117,
+    13
+  ],
+  "counts_same_as_Figure4": true,
+  "FASTQ_files": 24,
+  "FASTQ_all_exist": true,
+  "FASTQ_all_sizes_match": true,
+  "FASTQ_total_bytes": 35966545938,
+  "FASTQ_content_MD5_recomputed": false,
+  "A_88_visible_labels_match": true,
+  "B_12_count_triplets_match": true,
+  "B_12_LE_labels_match": true,
+  "B_4_G5_fraction_labels_match": true,
+  "C_module_sizes": {
+    "S1": 337,
+    "S2": 163
+  },
+  "C_Z_vs_saved_VST_max_error": 1.509903313490213e-14,
+  "C_module_scores_max_error": 6.661338147750939e-16,
+  "C_mean_SD_bounds_max_error": 1.1102230246251565e-16,
+  "C_markers": [
+    {
+      "plotted_row_1based": 155,
+      "gene_name": "CXCL8",
+      "secreted_module": "S1"
+    },
+    {
+      "plotted_row_1based": 158,
+      "gene_name": "IL6",
+      "secreted_module": "S1"
+    },
+    {
+      "plotted_row_1based": 469,
+      "gene_name": "CSF3",
+      "secreted_module": "S2"
+    },
+    {
+      "plotted_row_1based": 471,
+      "gene_name": "CXCL1",
+      "secreted_module": "S2"
+    }
+  ],
+  "final_pdf_extracted_text_chars": 2256
+}

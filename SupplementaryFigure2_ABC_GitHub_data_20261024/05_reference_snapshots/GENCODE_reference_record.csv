@@ -1,0 +1,2 @@
+﻿reference,original_package_path,bytes,sha256,included_in_this_focused_package,note
+GENCODE v36 CHR GRCh38.p13,05_input_counts_and_saved_models/gencode.v36.annotation.gtf.gz,44507458,81359865bab048361cbeaf91c9441aac4c700b63978e6691d579d78bf2322d30,False,"Reference annotation, not experimental raw data; aggregated counts, gene annotation and saved model are included."

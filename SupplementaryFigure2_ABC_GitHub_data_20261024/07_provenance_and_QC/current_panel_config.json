@@ -1,0 +1,86 @@
+{
+  "figure": "Supplementary Figure 2",
+  "old_to_current_panel_mapping": {
+    "S3B": "S2A",
+    "S3C": "S2B",
+    "S3D": "S2C"
+  },
+  "sample_order": [
+    "S50_0_1",
+    "S50_0_2",
+    "S50_0_3",
+    "S50_3_1",
+    "S50_3_2",
+    "S50_3_3",
+    "S50_12_1",
+    "S50_12_2",
+    "S50_12_3",
+    "S50_24_1",
+    "S50_24_2",
+    "S50_24_3"
+  ],
+  "A_pathway_order": [
+    "HALLMARK_INFLAMMATORY_RESPONSE",
+    "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+    "HALLMARK_IL6_JAK_STAT3_SIGNALING",
+    "HALLMARK_TGF_BETA_SIGNALING",
+    "HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",
+    "REACTOME_SIGNALING_BY_BMP",
+    "REACTOME_SIGNALING_BY_TGFB_FAMILY_MEMBERS",
+    "REACTOME_SIGNALING_BY_TGF_BETA_RECEPTOR_COMPLEX",
+    "REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS",
+    "REACTOME_DOWNREGULATION_OF_TGF_BETA_RECEPTOR_SIGNALING",
+    "REACTOME_INTERLEUKIN_6_FAMILY_SIGNALING",
+    "REACTOME_EXTRACELLULAR_MATRIX_ORGANIZATION",
+    "REACTOME_DEGRADATION_OF_THE_EXTRACELLULAR_MATRIX",
+    "REACTOME_CELL_EXTRACELLULAR_MATRIX_INTERACTIONS",
+    "REACTOME_COLLAGEN_FORMATION",
+    "REACTOME_COLLAGEN_DEGRADATION",
+    "REACTOME_ADORA2B_MEDIATED_ANTI_INFLAMMATORY_CYTOKINES_PRODUCTION",
+    "REACTOME_ANTI_INFLAMMATORY_RESPONSE_FAVOURING_LEISHMANIA_PARASITE_INFECTION",
+    "REACTOME_FCERI_MEDIATED_NF_KB_ACTIVATION",
+    "REACTOME_INFLAMMASOMES",
+    "REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_ZBP1",
+    "REACTOME_TRAF6_MEDIATED_NF_KB_ACTIVATION"
+  ],
+  "A_contrast_order": [
+    "3_vs_0",
+    "12_vs_0",
+    "24_vs_0",
+    "24_vs_3"
+  ],
+  "A_color_range_NES": [
+    -3,
+    3
+  ],
+  "A_text_field": "padj_library_contrast",
+  "B_pathway_order": [
+    "HALLMARK_TGF_BETA_SIGNALING",
+    "REACTOME_SIGNALING_BY_BMP",
+    "REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS",
+    "REACTOME_SIGNALING_BY_TGFB_FAMILY_MEMBERS"
+  ],
+  "B_gene_effect_contrasts": [
+    "12_vs_0",
+    "24_vs_0"
+  ],
+  "B_direction_contrasts": [
+    "3_vs_0",
+    "12_vs_0",
+    "24_vs_0"
+  ],
+  "C_module_sizes": {
+    "S1": 337,
+    "S2": 163
+  },
+  "C_heatmap_color_limits": [
+    -2.5,
+    2.5
+  ],
+  "C_colorbar_visible_ticks": [
+    -2,
+    0,
+    2
+  ],
+  "C_band": "mean +/- sample SD across three independent experiments"
+}

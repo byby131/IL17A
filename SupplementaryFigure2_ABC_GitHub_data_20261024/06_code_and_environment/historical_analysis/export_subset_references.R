@@ -1,0 +1,18 @@
+invisible(Sys.setlocale('LC_CTYPE','English_United States.utf8'))
+invisible(Sys.setlocale('LC_COLLATE','C'))
+.libPaths(c('adsc_il17_rnaseq/.Rlibrary',.libPaths()))
+suppressPackageStartupMessages(library(DESeq2))
+out <- 'analysis/figure4_S3_refinement_20261008/source_data'
+dir.create(out,recursive=TRUE,showWarnings=FALSE)
+m <- readRDS('adsc_il17_rnaseq/references/msigdb.2025.1.Hs.rds')
+keep <- m$gs_name=='HALLMARK_TGF_BETA_SIGNALING' | (m$gs_subcollection=='CP:REACTOME' & grepl('TGF|BMP',m$gs_name))
+cols <- intersect(c('gs_name','gs_description','gs_collection','gs_subcollection','db_gene_symbol','db_ncbi_gene','db_ensembl_gene','db_version'),names(m))
+write.csv(unique(m[keep,cols]),file.path(out,'C_fixed_TGF_BMP_database_membership.csv'),row.names=FALSE,na='')
+dds <- readRDS('HFF-1/round3_20260914/cache/sender_dds.rds')
+stopifnot(identical(deparse(design(dds)),'~replicate + time'))
+ann <- read.csv('HFF-1/round3_20260914/cache/sender_gene_annotation.csv')
+ids <- ann$gene_id[ann$gene_name %in% c('IL6','CXCL8','CXCL1','CSF3')]
+ids <- intersect(ids,rownames(dds))
+write.csv(data.frame(gene_id=ids,counts(dds)[ids,,drop=FALSE]),file.path(out,'D_marker_saved_model_integer_counts.csv'),row.names=FALSE)
+writeLines(capture.output(sessionInfo()),file.path(out,'reference_export_sessionInfo.txt'))
+cat('sets',length(unique(m$gs_name[keep])),'membership rows',sum(keep),'marker genes',length(ids),'\n')

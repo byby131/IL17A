@@ -1,0 +1,16 @@
+sample,group,replicate,dose_label,dose_value
+nc_1,Control,1,Control,0
+nc_2,Control,2,Control,0
+nc_3,Control,3,Control,0
+s100_1,Dose 100,1,Dose 100,100
+s100_2,Dose 100,2,Dose 100,100
+s100_3,Dose 100,3,Dose 100,100
+s10_1,Dose 10,1,Dose 10,10
+s10_2,Dose 10,2,Dose 10,10
+s10_3,Dose 10,3,Dose 10,10
+s200_1,Dose 200,1,Dose 200,200
+s200_2,Dose 200,2,Dose 200,200
+s200_3,Dose 200,3,Dose 200,200
+s50_1,Dose 50,1,Dose 50,50
+s50_2,Dose 50,2,Dose 50,50
+s50_3,Dose 50,3,Dose 50,50

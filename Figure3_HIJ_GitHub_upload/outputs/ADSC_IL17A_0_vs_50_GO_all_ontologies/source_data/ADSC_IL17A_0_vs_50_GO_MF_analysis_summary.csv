@@ -1,0 +1,2 @@
+ontology_code,ontology_name,tested_genes,annotated_universe,upregulated_FDR_lt_0.05,downregulated_FDR_lt_0.05,upregulated_annotated,downregulated_annotated,significant_up_terms,significant_down_terms,displayed_up_terms,displayed_down_terms
+MF,Molecular Function,14069,11943,822,1044,782,989,25,36,10,10

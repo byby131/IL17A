@@ -1,0 +1,19 @@
+Figure: ADSC IL-17A dose-response PCA
+Input: /Users/baoying/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_kj9qqzaut4e412_a91e/temp/drag/ADSC_IL17A_Dose_RNAseq_expression_matrix_counts.csv
+Input features: 232,117
+Input samples: 15
+Retained after CPM > 1 in at least 3 samples: 36,588
+PCA features: 5,000 most variable transcripts
+Normalization: edgeR TMM; transformation: log2-CPM with prior.count = 2
+PCA: centered, unscaled prcomp on samples; no sample was excluded
+PC1 explained variance: 9.528%
+PC2 explained variance: 7.993%
+Replicate numbers and dose groups were parsed from sample names; biological-versus-technical replicate status is not asserted.
+Dose units were not provided and are intentionally omitted from labels.
+The input contains fractional estimated counts; values were not rounded.
+Hulls connect the three samples in each group and do not represent confidence intervals.
+Palette revision only: groups follow the supplied reference order (orange, dusty pink, magenta, sage green, cyan-blue).
+PCA calculation, sample coordinates, shapes, hull geometry, and labels were not changed.
+Final figure size: 92 x 84 mm
+Font: Arial, 10 pt
+Exports: editable-text PDF/SVG plus 600-dpi TIFF and 300-dpi PNG preview

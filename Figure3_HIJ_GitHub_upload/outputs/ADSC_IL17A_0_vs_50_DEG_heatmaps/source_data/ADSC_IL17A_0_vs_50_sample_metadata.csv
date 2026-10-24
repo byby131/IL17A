@@ -1,0 +1,7 @@
+sample,display,group,replicate
+nc_1,0-1,0 ng/ml,1
+nc_2,0-2,0 ng/ml,2
+nc_3,0-3,0 ng/ml,3
+s50_1,50-1,50 ng/ml,1
+s50_2,50-2,50 ng/ml,2
+s50_3,50-3,50 ng/ml,3

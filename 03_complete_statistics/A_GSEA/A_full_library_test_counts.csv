@@ -1,0 +1,11 @@
+library,contrast,tested_pathways,FDR05
+Hallmark,12_vs_0,49,23
+Hallmark,12_vs_3,49,25
+Hallmark,24_vs_0,49,24
+Hallmark,24_vs_3,49,24
+Hallmark,3_vs_0,49,21
+Reactome,12_vs_0,975,101
+Reactome,12_vs_3,975,144
+Reactome,24_vs_0,975,70
+Reactome,24_vs_3,975,87
+Reactome,3_vs_0,975,20

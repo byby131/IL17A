@@ -1,0 +1,8 @@
+﻿current_panel,coverage,primary_source_file,scale_or_definition,original_location
+A,22 pathways x 4 contrasts (88 cells),02_panel_source_data/A_pathway_enrichment/A_display_GSEA_long_88_cells.csv,NES colors; padj_library_contrast text,old S3B
+B-top,4 pathways x 3 times x Up/Down/NS,02_panel_source_data/B_pathway_heterogeneity/B_whole_pathway_direction_composition_displayed4sets_all3times.csv,counts and proportions; genome-wide gene FDR,old S3C top
+B-middle,526 gene observations / 16 boxes,02_panel_source_data/B_pathway_heterogeneity/B_boxplot_all526_gene_points.csv,12/24 h log2FC vs 0; G5 or other,old S3C middle
+B-bottom,12 leading-edge summaries / 207 gene records,02_panel_source_data/B_pathway_heterogeneity/B_leading_edge_summary_displayed4sets.csv,NES sign and G5/LE; all shown pathway FDR >=0.05,old S3C bottom
+C-heatmap,500 genes x 12 samples,02_panel_source_data/C_secreted_genes/C_all500genes_12samples_gene_wise_Z.csv,gene-wise VST Z in final row order,old S3D left
+C-curves,"24 experiment/module observations, 8 time means",02_panel_source_data/C_secreted_genes/C_curve_mean_SD_and_shaded_bounds.csv,"module mean Z +/- SD, not CI or SEM",old S3D right
+C-markers,4 genes x 12 samples,02_panel_source_data/C_secreted_genes/C_four_markers_raw_normalized_VST_all_samples.csv,CXCL8/IL6 in S1; CSF3/CXCL1 in S2,old S3D callouts

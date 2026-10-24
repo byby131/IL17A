@@ -1,0 +1,149 @@
+{
+  "original_zip_bytes": 109560783,
+  "original_zip_expected_sha256": "affe357fc55b01bbce78046d005f7b9b3f9e1436d9448fc5009c289f66b8dd07",
+  "original_zip_actual_sha256": "affe357fc55b01bbce78046d005f7b9b3f9e1436d9448fc5009c289f66b8dd07",
+  "original_zip_hash_pass": true,
+  "zip_crc_bad_member": null,
+  "manifest_files": 137,
+  "directory_manifest_all_pass": true,
+  "zip_manifest_all_pass": true,
+  "local_copy_manifest_all_pass": true,
+  "raw_counts_shape": [
+    232117,
+    13
+  ],
+  "raw_counts_unique_ids": true,
+  "raw_counts_missing": 0,
+  "raw_counts_min": 0.0,
+  "raw_counts_root_copy_match": true,
+  "A_cluster_counts": {
+    "1": 333,
+    "2": 731,
+    "3": 811,
+    "4": 898,
+    "5": 1043,
+    "6": 618,
+    "7": 566
+  },
+  "A_server_export_matches": true,
+  "A_color_limit_99pct": 2.3235825945117936,
+  "B_module_score_max_error": 4.218847493575595e-15,
+  "B_profile_mean_max_error": 3.3306690738754696e-15,
+  "B_profile_ci95_max_error": 1.6818324510836646e-11,
+  "B_G1_G5_profile": [
+    {
+      "cluster": 1,
+      "time_h": 0,
+      "n_samples": 3,
+      "mean_module_score": -0.743503713328942,
+      "sem": 0.139045619518982,
+      "ci95_low": -1.34176872771199,
+      "ci95_high": -0.145238698945892
+    },
+    {
+      "cluster": 1,
+      "time_h": 3,
+      "n_samples": 3,
+      "mean_module_score": 0.484226813865793,
+      "sem": 0.201921283583467,
+      "ci95_low": -0.384570348139125,
+      "ci95_high": 1.35302397587071
+    },
+    {
+      "cluster": 1,
+      "time_h": 12,
+      "n_samples": 3,
+      "mean_module_score": 0.107177142669012,
+      "sem": 0.0402334006273634,
+      "ci95_low": -0.0659332083674165,
+      "ci95_high": 0.280287493705441
+    },
+    {
+      "cluster": 1,
+      "time_h": 24,
+      "n_samples": 3,
+      "mean_module_score": 0.152099756794136,
+      "sem": 0.065664332034814,
+      "ci95_low": -0.130431060682632,
+      "ci95_high": 0.434630574270904
+    },
+    {
+      "cluster": 5,
+      "time_h": 0,
+      "n_samples": 3,
+      "mean_module_score": -0.694416853255549,
+      "sem": 0.0330371184549844,
+      "ci95_low": -0.836564101158944,
+      "ci95_high": -0.552269605352154
+    },
+    {
+      "cluster": 5,
+      "time_h": 3,
+      "n_samples": 3,
+      "mean_module_score": -0.810674279016005,
+      "sem": 0.0196984496964571,
+      "ci95_low": -0.895429867374298,
+      "ci95_high": -0.725918690657711
+    },
+    {
+      "cluster": 5,
+      "time_h": 12,
+      "n_samples": 3,
+      "mean_module_score": 0.601848666899057,
+      "sem": 0.0226996393222923,
+      "ci95_low": 0.504180001804668,
+      "ci95_high": 0.699517331993446
+    },
+    {
+      "cluster": 5,
+      "time_h": 24,
+      "n_samples": 3,
+      "mean_module_score": 0.9032424653725,
+      "sem": 0.0082056335914732,
+      "ci95_low": 0.867936473600823,
+      "ci95_high": 0.938548457144176
+    }
+  ],
+  "D_time_means_max_error": 2.220446049250313e-16,
+  "D_display_gene_order": [
+    "ID1",
+    "ID2",
+    "ID3",
+    "ACVR2B",
+    "ID4",
+    "SMAD9",
+    "PITX2",
+    "NOG",
+    "SMAD6",
+    "RGMA",
+    "INHBE"
+  ],
+  "D_color_limit": 1.12261615251036,
+  "G5_KEGG_columns": [
+    "raw_export_order",
+    "pathway",
+    "overlap_count",
+    "displayed_global_pathway_size",
+    "effective_filtered_background_pathway_size",
+    "effective_Group5_KEGG_annotated_genes",
+    "effective_filtered_background_KEGG_annotated_genes",
+    "fold_enrichment_reconstructed",
+    "raw_P_reconstructed",
+    "server_BH_FDR_exported",
+    "overlap_ensembl",
+    "raw_P_rank",
+    "BH_FDR_reconstructed_from_268",
+    "BH_FDR_reconstructed_formatted"
+  ],
+  "server_enrichment_columns": [
+    "Unnamed: 0",
+    "group",
+    "FDR",
+    "nGenes",
+    "Pathway size",
+    "Fold enriched",
+    "Pathway",
+    "URL",
+    "Genes"
+  ]
+}

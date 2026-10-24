@@ -1,0 +1,25 @@
+{
+  "inputs": {
+    "D:\\heatmap_data.csv": "458efd529a9ec296782e6806636f9861518666bf4f5f3109c478f4691bd93db4",
+    "D:\\enrichment (1).csv": "4fab74ed2737642894e479c4ffbca72ad843498deaf7ec302a4685ca3adc006c",
+    "E:\\codex-转录组\\analysis\\figure4_final_frozen\\source_data\\Figure4C_ORA_all_modules_4_libraries.csv": "e7606bfc5e5d2ff1a8e9713a3d1f4f430ee077e5bfcb4147394a02cad08dcc69"
+  },
+  "official_software_source": {
+    "idep_repository": "https://github.com/gexijin/idepGolem",
+    "audited_local_source_version": "2.4.4",
+    "database_archive": "data113",
+    "database_archive_url": "https://bioinformatics.sdstate.edu/data/data113/",
+    "human_db_url": "http://bioinformatics.sdstate.edu/data/data113/db/hsapiens_gene_ensembl__Human.db.gz",
+    "human_db_content_length": 1148619743,
+    "human_db_last_modified": "2025-09-11 02:45:59 GMT",
+    "human_db_etag": "68c237e7-44768bdf"
+  },
+  "reconstruction": {
+    "complete_group5_members": 1043,
+    "effective_query": 229,
+    "effective_background": 5487,
+    "tested_pathways": 268,
+    "tgf_raw_p": 0.0008926000825948277,
+    "tgf_exported_fdr": 0.0429
+  }
+}

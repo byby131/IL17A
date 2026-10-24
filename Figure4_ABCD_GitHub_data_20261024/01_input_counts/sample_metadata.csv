@@ -1,0 +1,13 @@
+﻿sample_id,cell_type,time_h,replicate,experiment_id,study_donor_label,baseline,condition,IL17A_ng_per_mL
+S50_0_1,human ADSCs,0,1,experiment_1,donor_1,True,untreated / pre-IL-17A baseline,0
+S50_0_2,human ADSCs,0,2,experiment_2,donor_1,True,untreated / pre-IL-17A baseline,0
+S50_0_3,human ADSCs,0,3,experiment_3,donor_1,True,untreated / pre-IL-17A baseline,0
+S50_3_1,human ADSCs,3,1,experiment_1,donor_1,False,IL-17A exposure,50
+S50_3_2,human ADSCs,3,2,experiment_2,donor_1,False,IL-17A exposure,50
+S50_3_3,human ADSCs,3,3,experiment_3,donor_1,False,IL-17A exposure,50
+S50_12_1,human ADSCs,12,1,experiment_1,donor_1,False,IL-17A exposure,50
+S50_12_2,human ADSCs,12,2,experiment_2,donor_1,False,IL-17A exposure,50
+S50_12_3,human ADSCs,12,3,experiment_3,donor_1,False,IL-17A exposure,50
+S50_24_1,human ADSCs,24,1,experiment_1,donor_1,False,IL-17A exposure,50
+S50_24_2,human ADSCs,24,2,experiment_2,donor_1,False,IL-17A exposure,50
+S50_24_3,human ADSCs,24,3,experiment_3,donor_1,False,IL-17A exposure,50

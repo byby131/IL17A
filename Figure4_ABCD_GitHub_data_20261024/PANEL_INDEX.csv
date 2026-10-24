@@ -1,0 +1,6 @@
+﻿current_panel,content,main_source_file,upstream_source,dimensions_and_scale,old_package_location
+A,5000-gene temporal heatmap,03_panel_source_data/A_heatmap/heatmap_5000_genes_display_order.csv,02_frozen_server_exports/heatmap_data.csv,5000 genes x 12 samples; Groups 1-7,old composite Figure4C left
+B,Group1 and Group5 module trajectories,03_panel_source_data/B_trajectories/Group1_Group5_sample_module_scores.csv,04_processed_support/VST_gene_Z_matrix_all_matched_modules.csv,24 plotted sample values; 147 and 800 genes,old composite Figure4C middle
+B,Trajectory means and confidence intervals,03_panel_source_data/B_trajectories/Group1_Group5_mean_and_CI95.csv,03_panel_source_data/B_trajectories/Group1_Group5_sample_module_scores.csv,8 means; 95% t confidence intervals across 3 experiments,old composite Figure4C middle
+C,KEGG enrichment,03_panel_source_data/C_KEGG/KEGG_displayed_9_pathways.csv,02_frozen_server_exports/enrichment.csv; 05_KEGG_audit,4 Group1 + 5 Group5; x axis is fold enrichment,old composite Figure4C upper right
+D,Group5 TGF-beta 11 genes,03_panel_source_data/D_TGFbeta_genes/heatmap_4_times_by_11_genes.csv,03_panel_source_data/D_TGFbeta_genes/11_gene_server_expression_12_samples.csv,4 time means x 11 genes; frozen server values,old composite Figure4C lower right

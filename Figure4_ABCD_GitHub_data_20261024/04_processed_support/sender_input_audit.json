@@ -1,0 +1,84 @@
+{
+  "raw_sha256": "67aad61a418f4e631a85b2b9b94859d4d5c4dc9fe65208711a9facada3e1369b",
+  "reference": "GENCODE v36 CHR GRCh38.p13",
+  "reference_sha256": "81359865bab048361cbeaf91c9441aac4c700b63978e6691d579d78bf2322d30",
+  "transcripts": 232117,
+  "exact_versioned_matches": 232117,
+  "reference_transcripts": 232117,
+  "gene_count": 60660,
+  "count_conservation": true,
+  "metadata": [
+    {
+      "sample": "S50_0_1",
+      "time": "0",
+      "replicate": "1"
+    },
+    {
+      "sample": "S50_0_2",
+      "time": "0",
+      "replicate": "2"
+    },
+    {
+      "sample": "S50_0_3",
+      "time": "0",
+      "replicate": "3"
+    },
+    {
+      "sample": "S50_12_1",
+      "time": "12",
+      "replicate": "1"
+    },
+    {
+      "sample": "S50_12_2",
+      "time": "12",
+      "replicate": "2"
+    },
+    {
+      "sample": "S50_12_3",
+      "time": "12",
+      "replicate": "3"
+    },
+    {
+      "sample": "S50_24_1",
+      "time": "24",
+      "replicate": "1"
+    },
+    {
+      "sample": "S50_24_2",
+      "time": "24",
+      "replicate": "2"
+    },
+    {
+      "sample": "S50_24_3",
+      "time": "24",
+      "replicate": "3"
+    },
+    {
+      "sample": "S50_3_1",
+      "time": "3",
+      "replicate": "1"
+    },
+    {
+      "sample": "S50_3_2",
+      "time": "3",
+      "replicate": "2"
+    },
+    {
+      "sample": "S50_3_3",
+      "time": "3",
+      "replicate": "3"
+    }
+  ],
+  "design": "~ replicate + time",
+  "reference_level": "0",
+  "contrasts": [
+    "3 vs 0",
+    "12 vs 0",
+    "24 vs 0"
+  ],
+  "sender_contrast": "12 vs 0",
+  "limitations": [
+    "Salmon effective-length offsets unavailable; counts-only gene aggregation is provisional.",
+    "0 h is pre-treatment baseline; no time-matched untreated group to isolate culture-time effects."
+  ]
+}

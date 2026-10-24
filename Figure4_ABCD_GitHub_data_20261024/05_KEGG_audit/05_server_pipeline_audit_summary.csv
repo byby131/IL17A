@@ -1,0 +1,23 @@
+﻿parameter,value
+server_software,iDEP enrichment module; source-compatible with idepGolem 2.4.4
+server_database_category,KEGG
+server_database_archive,iDEP data113
+human_database_file,hsapiens_gene_ensembl__Human.db.gz
+database_file_last_modified,2025-09-11 02:45:59 GMT
+statistical_test,one-sided hypergeometric over-representation test
+background_option,Use filtered genes as background = TRUE (iDEP default)
+complete_Group5_members,1043
+Group5_KEGG_annotated_query_genes,229
+filtered_background_KEGG_annotated_genes,5487
+KEGG_pathways_tested_for_Group5,268
+BH_scope,268 Group 5-hit pathways within the KEGG category
+result_display_filter,"FDR < 0.1, sorted by FDR, maximum 10 pathways"
+redundancy_removal,FALSE (iDEP default)
+TGF_pathway_id,hsa04350
+TGF_displayed_global_pathway_size,107
+TGF_effective_filtered_background_size,87
+TGF_overlap,11
+TGF_raw_P,0.0008926000825948277
+TGF_BH_FDR_exported,4.29e-02
+TGF_fold_enrichment,3.02951362746574
+TGF_Fisher_odds_ratio_derived,3.440487687107677

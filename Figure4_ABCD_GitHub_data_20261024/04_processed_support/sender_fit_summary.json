@@ -1,0 +1,45 @@
+{
+  "summary": [
+    {
+      "contrast": "3_vs_0",
+      "tested": 14425,
+      "up": 358,
+      "down": 74,
+      "nonconverged": 0,
+      "missing_p": 0
+    },
+    {
+      "contrast": "12_vs_0",
+      "tested": 14425,
+      "up": 2027,
+      "down": 2223,
+      "nonconverged": 0,
+      "missing_p": 0
+    },
+    {
+      "contrast": "24_vs_0",
+      "tested": 14425,
+      "up": 2388,
+      "down": 2970,
+      "nonconverged": 0,
+      "missing_p": 0
+    }
+  ],
+  "size_factors": {
+    "S50_0_1": 0.932,
+    "S50_0_2": 1.0541,
+    "S50_0_3": 0.9673,
+    "S50_12_1": 0.9964,
+    "S50_12_2": 1.045,
+    "S50_12_3": 0.9793,
+    "S50_24_1": 1.2237,
+    "S50_24_2": 0.9231,
+    "S50_24_3": 1.0732,
+    "S50_3_1": 0.853,
+    "S50_3_2": 0.9742,
+    "S50_3_3": 1.0841
+  },
+  "design": "~replicate + time",
+  "results_names": ["Intercept", "replicate_2_vs_1", "replicate_3_vs_1", "time_3_vs_0", "time_12_vs_0", "time_24_vs_0"],
+  "limitations": ["Salmon effective-length offsets unavailable; counts-only gene aggregation is provisional.", "0 h is pre-treatment baseline; no time-matched untreated group to isolate culture-time effects."]
+}

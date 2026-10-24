@@ -1,0 +1,13 @@
+"sample_id","time_hours","replicate","condition","baseline"
+"S50_0_1",0,"1","IL-17A 50 ng/mL",TRUE
+"S50_0_2",0,"2","IL-17A 50 ng/mL",TRUE
+"S50_0_3",0,"3","IL-17A 50 ng/mL",TRUE
+"S50_12_1",12,"1","IL-17A 50 ng/mL",FALSE
+"S50_12_2",12,"2","IL-17A 50 ng/mL",FALSE
+"S50_12_3",12,"3","IL-17A 50 ng/mL",FALSE
+"S50_24_1",24,"1","IL-17A 50 ng/mL",FALSE
+"S50_24_2",24,"2","IL-17A 50 ng/mL",FALSE
+"S50_24_3",24,"3","IL-17A 50 ng/mL",FALSE
+"S50_3_1",3,"1","IL-17A 50 ng/mL",FALSE
+"S50_3_2",3,"2","IL-17A 50 ng/mL",FALSE
+"S50_3_3",3,"3","IL-17A 50 ng/mL",FALSE

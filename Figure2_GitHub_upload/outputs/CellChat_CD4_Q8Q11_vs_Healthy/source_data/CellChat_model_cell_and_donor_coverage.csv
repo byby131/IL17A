@@ -1,0 +1,37 @@
+analysis,model,cell_group,n_cells,n_donors
+full,Healthy,Memory CD4 T,180,14
+full,Healthy,Activated CD4 T,209,14
+full,Healthy,Treg,236,14
+full,Healthy,Th17-like,173,14
+full,Healthy,Naive CD4 T,71,13
+full,Healthy,ASPC receiver,2428,14
+full,Q8,Th17-like,529,14
+full,Q8,Memory CD4 T,297,14
+full,Q8,Activated CD4 T,444,14
+full,Q8,Treg,396,14
+full,Q8,Naive CD4 T,308,13
+full,Q8,ASPC receiver,43,12
+full,Q11,Th17-like,529,14
+full,Q11,Memory CD4 T,297,14
+full,Q11,Activated CD4 T,444,14
+full,Q11,Treg,396,14
+full,Q11,Naive CD4 T,308,13
+full,Q11,ASPC receiver,165,9
+cell-number matched,Healthy,Naive CD4 T,71,13
+cell-number matched,Healthy,Memory CD4 T,180,14
+cell-number matched,Healthy,Th17-like,173,14
+cell-number matched,Healthy,Treg,236,14
+cell-number matched,Healthy,Activated CD4 T,209,14
+cell-number matched,Healthy,ASPC receiver,43,14
+cell-number matched,Q8,Naive CD4 T,71,13
+cell-number matched,Q8,Memory CD4 T,180,14
+cell-number matched,Q8,Th17-like,173,14
+cell-number matched,Q8,Treg,236,14
+cell-number matched,Q8,Activated CD4 T,209,14
+cell-number matched,Q8,ASPC receiver,43,12
+cell-number matched,Q11,Naive CD4 T,71,13
+cell-number matched,Q11,Memory CD4 T,180,14
+cell-number matched,Q11,Th17-like,173,14
+cell-number matched,Q11,Treg,236,14
+cell-number matched,Q11,Activated CD4 T,209,14
+cell-number matched,Q11,ASPC receiver,43,9

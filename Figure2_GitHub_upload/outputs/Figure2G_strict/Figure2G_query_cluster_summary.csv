@@ -1,0 +1,13 @@
+query_cluster,n_cells,n_donors,median_nCount_RNA,median_nFeature_RNA,median_percent_mt,uncertain_n,disease_deviated_n,uncertain_percent,disease_deviated_percent,identity_candidate,identity_confidence,annotation_reason
+Q1,816,14,3585.5,1297.5,4.3914450447643,19,12,2.32843137254902,1.47058823529412,VSMC-like,High,Highest multi-gene Healthy-profile Spearman r=0.90 (margin 0.32); other-lineage max detection 1.4%
+Q2,1182,14,5079,1608,3.5920018492834,23,27,1.94585448392555,2.28426395939086,VSMC-like,High,Highest multi-gene Healthy-profile Spearman r=0.88 (margin 0.21); other-lineage max detection 2.4%
+Q3,656,14,4271,1458.5,3.26778467308476,6,43,0.914634146341463,6.55487804878049,Pericyte-like,High,Highest multi-gene Healthy-profile Spearman r=0.75 (margin 0.35); other-lineage max detection 2.6%
+Q4,779,14,2284,968,4.2920572274297,19,144,2.4390243902439,18.4852374839538,Pericyte-like,High,Highest multi-gene Healthy-profile Spearman r=0.81 (margin 0.30); other-lineage max detection 1.6%
+Q5,42,10,7273.5,2227,4.18655254870309,0,1,0,2.38095238095238,VSMC-like,High,Highest multi-gene Healthy-profile Spearman r=0.69 (margin 0.64); other-lineage max detection 3.3%
+Q6,72,10,12744.5,2918.5,4.73205558939516,0,55,0,76.3888888888889,Provisional VSMC-like,Low,Highest multi-gene Healthy-profile Spearman r=0.32 (margin 0.09); other-lineage max detection 6.5%
+Q7,635,14,3909,1346,4.633555420957,76,38,11.9685039370079,5.98425196850394,Provisional Papillary/conventional FB-like,Low,Highest multi-gene Healthy-profile Spearman r=0.70 (margin 0.00); other-lineage max detection 1.4%
+Q8,43,12,3301,1240,2.63459335624284,1,19,2.32558139534884,44.1860465116279,ASPC-like,Moderate,Highest multi-gene Healthy-profile Spearman r=0.42 (margin 0.30); other-lineage max detection 0.0%
+Q9,235,9,11315,2939,2.37662180186735,32,21,13.6170212765957,8.93617021276596,Provisional ECM-remodeling FB-like,Low,Highest multi-gene Healthy-profile Spearman r=0.47 (margin 0.01); other-lineage max detection 5.9%
+Q10,364,10,4025,1510.5,3.69702038478561,22,22,6.04395604395604,6.04395604395604,ECM-remodeling FB-like,High,Highest multi-gene Healthy-profile Spearman r=0.89 (margin 0.27); other-lineage max detection 12.6%
+Q11,165,9,7429,2157,2.81309876328166,16,2,9.6969696969697,1.21212121212121,ASPC-like,High,Highest multi-gene Healthy-profile Spearman r=0.72 (margin 0.19); other-lineage max detection 11.1%
+Q12,284,9,6541,2023,2.43322372360804,29,36,10.2112676056338,12.6760563380282,Unresolved / possible non-stromal admixture,Low,Highest multi-gene Healthy-profile Spearman r=0.83 (margin 0.31); other-lineage max detection 28.9%

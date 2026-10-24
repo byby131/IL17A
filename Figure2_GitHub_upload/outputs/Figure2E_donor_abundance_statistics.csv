@@ -1,0 +1,4 @@
+metric,healthy_n,losc_n,healthy_median,losc_median,median_difference_LoSc_minus_Healthy,cliffs_delta_LoSc_vs_Healthy,wilcoxon_W,p_value,method,annotation
+Th17-like / CD4 T (%),14,14,20.0655200655201,25.3059791332263,5.24045906770626,0.331632653061225,130.5,0.141419079336537,two-sided Wilcoxon rank-sum; donor-level,P = 0.141; Δmed = 5.24
+Treg / CD4 T (%),14,14,30.8210784313726,23.3471074380165,-7.47397099335602,-0.38265306122449,60.5,0.0890751044139317,two-sided Wilcoxon rank-sum; donor-level,P = 0.089; Δmed = -7.47
+Th17-like / Treg ratio,14,14,0.671122994652406,1.04347826086957,0.372355266217159,0.301020408163265,127.5,0.182581842456348,two-sided Wilcoxon rank-sum; donor-level,P = 0.183; Δmed = 0.37

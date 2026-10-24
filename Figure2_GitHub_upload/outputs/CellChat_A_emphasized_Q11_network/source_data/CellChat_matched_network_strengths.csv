@@ -1,0 +1,73 @@
+sender,receiver,strength,model
+Naive CD4 T,Naive CD4 T,0,Healthy
+Memory CD4 T,Naive CD4 T,0,Healthy
+Th17-like,Naive CD4 T,0.00990400604510276,Healthy
+Treg,Naive CD4 T,0.0453881468478436,Healthy
+Activated CD4 T,Naive CD4 T,0,Healthy
+ASPC receiver,Naive CD4 T,0.981795867720298,Healthy
+Naive CD4 T,Memory CD4 T,0,Healthy
+Memory CD4 T,Memory CD4 T,0,Healthy
+Th17-like,Memory CD4 T,0,Healthy
+Treg,Memory CD4 T,0,Healthy
+Activated CD4 T,Memory CD4 T,0,Healthy
+ASPC receiver,Memory CD4 T,0.420129842685689,Healthy
+Naive CD4 T,Th17-like,0.0195857540344439,Healthy
+Memory CD4 T,Th17-like,0,Healthy
+Th17-like,Th17-like,0.0224300006051907,Healthy
+Treg,Th17-like,0.0809588653857193,Healthy
+Activated CD4 T,Th17-like,0.00919265192802326,Healthy
+ASPC receiver,Th17-like,1.09335102843604,Healthy
+Naive CD4 T,Treg,0.0229812573610961,Healthy
+Memory CD4 T,Treg,0,Healthy
+Th17-like,Treg,0.102311969890705,Healthy
+Treg,Treg,0.149598683715633,Healthy
+Activated CD4 T,Treg,0.0342098129028575,Healthy
+ASPC receiver,Treg,1.24867967334799,Healthy
+Naive CD4 T,Activated CD4 T,0.00982129838105213,Healthy
+Memory CD4 T,Activated CD4 T,0,Healthy
+Th17-like,Activated CD4 T,0.0112638401758333,Healthy
+Treg,Activated CD4 T,0.0361902237609058,Healthy
+Activated CD4 T,Activated CD4 T,0,Healthy
+ASPC receiver,Activated CD4 T,0.596084139877271,Healthy
+Naive CD4 T,ASPC receiver,0.0564690436791844,Healthy
+Memory CD4 T,ASPC receiver,0.0240847366178667,Healthy
+Th17-like,ASPC receiver,0.0890165333918331,Healthy
+Treg,ASPC receiver,0.156099608492846,Healthy
+Activated CD4 T,ASPC receiver,0.0649754699380362,Healthy
+ASPC receiver,ASPC receiver,0.631919377719288,Healthy
+Naive CD4 T,Naive CD4 T,0.0259569724891724,Q11
+Memory CD4 T,Naive CD4 T,0,Q11
+Th17-like,Naive CD4 T,0.0243189888314966,Q11
+Treg,Naive CD4 T,0.21105302471047,Q11
+Activated CD4 T,Naive CD4 T,0,Q11
+ASPC receiver,Naive CD4 T,1.65496528558351,Q11
+Naive CD4 T,Memory CD4 T,0,Q11
+Memory CD4 T,Memory CD4 T,0,Q11
+Th17-like,Memory CD4 T,0,Q11
+Treg,Memory CD4 T,0.139087651451206,Q11
+Activated CD4 T,Memory CD4 T,0,Q11
+ASPC receiver,Memory CD4 T,0.716695921774509,Q11
+Naive CD4 T,Th17-like,0.0654201540200819,Q11
+Memory CD4 T,Th17-like,0.0229826417724671,Q11
+Th17-like,Th17-like,0.0834990449975489,Q11
+Treg,Th17-like,0.271299982819603,Q11
+Activated CD4 T,Th17-like,0.086459252403424,Q11
+ASPC receiver,Th17-like,1.96822536880106,Q11
+Naive CD4 T,Treg,0,Q11
+Memory CD4 T,Treg,0.0367288810000993,Q11
+Th17-like,Treg,0.150072112874943,Q11
+Treg,Treg,0.375374433163331,Q11
+Activated CD4 T,Treg,0.157522401225364,Q11
+ASPC receiver,Treg,2.09559360978965,Q11
+Naive CD4 T,Activated CD4 T,0.0226818525334932,Q11
+Memory CD4 T,Activated CD4 T,0,Q11
+Th17-like,Activated CD4 T,0.0212460334127366,Q11
+Treg,Activated CD4 T,0.16784876925408,Q11
+Activated CD4 T,Activated CD4 T,0,Q11
+ASPC receiver,Activated CD4 T,1.23490473330315,Q11
+Naive CD4 T,ASPC receiver,0.0949847276326821,Q11
+Memory CD4 T,ASPC receiver,0.0735113859572983,Q11
+Th17-like,ASPC receiver,0.158695645963973,Q11
+Treg,ASPC receiver,0.329813733165542,Q11
+Activated CD4 T,ASPC receiver,0.0789085820135283,Q11
+ASPC receiver,ASPC receiver,1.76367907748486,Q11

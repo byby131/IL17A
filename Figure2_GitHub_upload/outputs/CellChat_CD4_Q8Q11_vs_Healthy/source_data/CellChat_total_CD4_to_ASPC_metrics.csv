@@ -1,0 +1,31 @@
+analysis,model,source,interaction_count,total_strength
+cell-number matched,Healthy,Activated CD4 T,3,0.0649754699380362
+cell-number matched,Healthy,Memory CD4 T,1,0.0240847366178667
+cell-number matched,Healthy,Naive CD4 T,1,0.0564690436791844
+cell-number matched,Healthy,Th17-like,2,0.0890165333918331
+cell-number matched,Healthy,Treg,2,0.156099608492846
+cell-number matched,Q11,Activated CD4 T,1,0.0789085820135283
+cell-number matched,Q11,Memory CD4 T,1,0.0735113859572983
+cell-number matched,Q11,Naive CD4 T,2,0.0949847276326821
+cell-number matched,Q11,Th17-like,2,0.158695645963973
+cell-number matched,Q11,Treg,3,0.329813733165542
+cell-number matched,Q8,Activated CD4 T,0,0
+cell-number matched,Q8,Memory CD4 T,0,0
+cell-number matched,Q8,Naive CD4 T,0,0
+cell-number matched,Q8,Th17-like,1,0.0312036341941773
+cell-number matched,Q8,Treg,2,0.0966527227731628
+full,Healthy,Activated CD4 T,1,0.00577549358954151
+full,Healthy,Memory CD4 T,0,0
+full,Healthy,Naive CD4 T,1,0.0554132304180956
+full,Healthy,Th17-like,1,0.0553057778475929
+full,Healthy,Treg,1,0.0731224368986049
+full,Q11,Activated CD4 T,1,0.0723888731683196
+full,Q11,Memory CD4 T,1,0.0831899507985358
+full,Q11,Naive CD4 T,2,0.098871620353424
+full,Q11,Th17-like,2,0.21271125489152
+full,Q11,Treg,3,0.311488550352789
+full,Q8,Activated CD4 T,0,0
+full,Q8,Memory CD4 T,1,0.0221218906779381
+full,Q8,Naive CD4 T,1,0.0230148827127796
+full,Q8,Th17-like,2,0.080784639942859
+full,Q8,Treg,2,0.0951086723383979

@@ -1,0 +1,8 @@
+mapping_status,mapping_label,n_cells,n_donors
+Disease-deviated,Disease-deviated,420,14
+Mapped,Papillary/conventional fibroblast,579,14
+Mapped,Homeostatic/adipogenic ASPC,557,14
+Mapped,Pericyte,1220,14
+Mapped,VSMC,1960,14
+Uncertain,Uncertain,243,14
+Mapped,ECM-remodeling fibroblast,294,14

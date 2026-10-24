@@ -1,0 +1,8 @@
+k_neighbors=30
+confidence_cutoff_Healthy_5th_percentile=0.633333
+entropy_cutoff_Healthy_95th_percentile=0.422748
+distance_cutoff_Healthy_95th_percentile=0.500344
+Healthy_LODO_accuracy=0.974709
+mapped_query_cells=4610
+uncertain_query_cells=243
+disease_deviated_query_cells=420

@@ -1,0 +1,13 @@
+query_cluster,best_reference,identity_candidate,identity_confidence,best_spearman,second_spearman,margin,other_lineage_max_pct,annotation_reason
+Q1,VSMC,VSMC-like,High,0.898245614035088,0.582456140350877,0.315789473684211,1.44004161861305,Highest multi-gene Healthy-profile Spearman r=0.90 (margin 0.32); other-lineage max detection 1.4%
+Q10,ECM-remodeling fibroblast,ECM-remodeling FB-like,High,0.885964912280702,0.615789473684211,0.270175438596491,12.5515463917526,Highest multi-gene Healthy-profile Spearman r=0.89 (margin 0.27); other-lineage max detection 12.6%
+Q11,Homeostatic/adipogenic ASPC,ASPC-like,High,0.717543859649123,0.52280701754386,0.194736842105263,11.1111111111111,Highest multi-gene Healthy-profile Spearman r=0.72 (margin 0.19); other-lineage max detection 11.1%
+Q12,Homeostatic/adipogenic ASPC,Unresolved / possible non-stromal admixture,Low,0.831578947368421,0.519298245614035,0.312280701754386,28.9102299325348,Highest multi-gene Healthy-profile Spearman r=0.83 (margin 0.31); other-lineage max detection 28.9%
+Q2,VSMC,VSMC-like,High,0.882456140350877,0.675438596491228,0.207017543859649,2.39722600652592,Highest multi-gene Healthy-profile Spearman r=0.88 (margin 0.21); other-lineage max detection 2.4%
+Q3,Pericyte,Pericyte-like,High,0.750877192982456,0.403508771929825,0.347368421052632,2.56159391014828,Highest multi-gene Healthy-profile Spearman r=0.75 (margin 0.35); other-lineage max detection 2.6%
+Q4,Pericyte,Pericyte-like,High,0.812280701754386,0.508771929824562,0.303508771929825,1.58648826734702,Highest multi-gene Healthy-profile Spearman r=0.81 (margin 0.30); other-lineage max detection 1.6%
+Q5,VSMC,VSMC-like,High,0.689473684210526,0.0473684210526316,0.642105263157895,3.33333333333333,Highest multi-gene Healthy-profile Spearman r=0.69 (margin 0.64); other-lineage max detection 3.3%
+Q6,VSMC,Provisional VSMC-like,Low,0.321052631578947,0.226315789473684,0.0947368421052631,6.47435897435897,Highest multi-gene Healthy-profile Spearman r=0.32 (margin 0.09); other-lineage max detection 6.5%
+Q7,Papillary/conventional fibroblast,Provisional Papillary/conventional FB-like,Low,0.703508771929825,0.701754385964912,0.00175438596491229,1.38749724820812,Highest multi-gene Healthy-profile Spearman r=0.70 (margin 0.00); other-lineage max detection 1.4%
+Q8,Homeostatic/adipogenic ASPC,ASPC-like,Moderate,0.417543859649123,0.117543859649123,0.3,0,Highest multi-gene Healthy-profile Spearman r=0.42 (margin 0.30); other-lineage max detection 0.0%
+Q9,ECM-remodeling fibroblast,Provisional ECM-remodeling FB-like,Low,0.471929824561404,0.46140350877193,0.0105263157894737,5.90386624869384,Highest multi-gene Healthy-profile Spearman r=0.47 (margin 0.01); other-lineage max detection 5.9%

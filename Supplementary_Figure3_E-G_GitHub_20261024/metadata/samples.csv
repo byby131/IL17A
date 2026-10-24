@@ -1,0 +1,7 @@
+﻿sample,condition,biological_replicate,design,RNA_source,ADSC_IL17A_ng_mL,HFF1_CM_exposure_h,batch,ADSC_IL17A_stimulation_h,group_display
+FBcontrol_1,Control_CM,1,independent_unpaired,HFF-1,0,24,unknown,0,Control CM_FB
+FBcontrol_2,Control_CM,2,independent_unpaired,HFF-1,0,24,unknown,0,Control CM_FB
+FBcontrol_3,Control_CM,3,independent_unpaired,HFF-1,0,24,unknown,0,Control CM_FB
+ADSC12hCM_1,IL17A_ADSC_CM,1,independent_unpaired,HFF-1,50,24,unknown,12,IL-17A CM_FB
+ADSC12hCM_2,IL17A_ADSC_CM,2,independent_unpaired,HFF-1,50,24,unknown,12,IL-17A CM_FB
+ADSC12hCM_3,IL17A_ADSC_CM,3,independent_unpaired,HFF-1,50,24,unknown,12,IL-17A CM_FB

@@ -1,0 +1,59 @@
+{
+  "source_sha256": {
+    "counts": "98ead84e86ee088fec8b2279a76d9f68b7fee384617432336e3235ae54a0ef92"
+  },
+  "input_genes": 86411,
+  "tested_genes": 16713,
+  "filter": "rounded raw count >= 10 in at least 3 of 6 samples",
+  "design": "~ condition; 3 independent biological replicates per group; unpaired",
+  "contrast": "IL17A-stimulated ADSC CM versus unstimulated ADSC CM, RNA from HFF-1",
+  "quantifier": "Salmon",
+  "original_counts_normalization": "none, user confirmed",
+  "input_method": "counts-only analysis requested by user; raw Salmon gene counts rounded for DESeq2 integer input; no gene effective-length offset",
+  "rounding_max_abs": 0.5,
+  "rounding_L1_fraction": 0.0001069057415912,
+  "rounded_cells": 84749,
+  "DESeq2_version": "1.46.0",
+  "dispersion_fit": "parametric",
+  "independent_filtering": false,
+  "multiple_testing": "BH across all estimable P-values after count filtering; default Cook outlier handling",
+  "pvalues_estimable": 16700,
+  "pvalues_NA": 13,
+  "beta_not_converged": 0,
+  "significant_FDR_0_05": 6046,
+  "DEG_FDR_0_05_abs_log2FC_1": 1130,
+  "up": 704,
+  "down": 426,
+  "LFC": "unshrunken maximum-likelihood log2FC; Wald tests H0: log2FC=0; abs log2FC threshold is a post-test effect-size filter",
+  "VST_blind": false,
+  "PCA_top_n": 2000,
+  "PCA_variance": [
+    0.8194852081399,
+    0.06836183039241,
+    0.05371488968535,
+    0.03198713098857,
+    0.02645094079375,
+    3.656047030978e-30
+  ],
+  "correlation_control_range": [
+    0.9941239274337,
+    0.9961487521044
+  ],
+  "correlation_treatment_range": [
+    0.9953884737248,
+    0.9970562100605
+  ],
+  "correlation_between_range": [
+    0.9780828133078,
+    0.9839770295377
+  ],
+  "warnings": [],
+  "pending": "batch unknown; gene effective-length changes and Salmon inferential uncertainty are not modeled; result depends on approximate stability of gene effective lengths",
+  "ADSC_IL17A_ng_mL": 50,
+  "ADSC_IL17A_stimulation_hours": 12,
+  "HFF1_conditioned_medium_exposure_hours": 24,
+  "group_display_names": {
+    "FBcontrol": "Control CM_FB",
+    "ADSC12hCM": "IL-17A CM_FB"
+  }
+}

@@ -1,0 +1,11 @@
+# Data dictionary
+
+`sample`: unchanged raw count-column identifier. `condition`: original DESeq2 internal code. `group` / `group_display`: confirmed public display label. `replicate` / `biological_replicate`: within-group replicate index, not a pairing key.
+
+`gene_id`: original versioned Ensembl gene ID. `gene_name`: supplied annotation. `ENTREZID`: Entrez gene ID after mapping. `baseMean`: mean normalized count over six samples. `log2FoldChange`: IL-17A CM_FB / Control CM_FB on log2 scale. `lfcSE`: coefficient standard error. `stat`: DESeq2 Wald statistic. `pvalue`: unadjusted gene-level P value. `padj` in DESeq2 tables: gene-level BH-adjusted P value. `rank_eligible`: eligibility for the stored mapped GSEA ranking.
+
+`pathway` / `signature`: complete external gene-set identifier. `display_label`: shortened figure label. `NES`: normalized enrichment score. `ES`: enrichment score. `size`: mapped GSEA set size. `leadingEdge`: semicolon-separated Entrez IDs. `pval`: enrichment P value. `padj` in GSEA tables: original fgsea adjustment, distinct from `FDR_global`. `FDR_global`: BH across the saved combined GSEA family; used for figure significance. `FDR_within_collection`: alternative within-collection adjustment, not used for the displayed significance. `selected_C`: legacy selection flag from an earlier figure, not the current S3F display flag. Use the S3F source table for current membership.
+
+`ssGSEA_score`: original integrated sample-level enrichment score; compare within the same signature only. `row_z`: score centred and divided by its sample SD across six samples. `PC1`–`PC6`: saved PCA coordinates. `variance_fraction`: variance explained on 0–1 scale. Matrix CSVs have signatures as rows and original samples as columns.
+
+`p_exact_two_sided`: exact sample-label permutation P value; `FDR_25_signatures`: BH over the 25-program sample-score test family, distinct from GSEA FDR. `mean_Control` / `mean_IL17A` retain legacy column identifiers and mean Control CM_FB / IL-17A CM_FB respectively. Other comparison fields are audit-only descriptive effect/leave-one-out measures, not plotted significance. `difference` is treatment minus reference. No blanks or NA values should be interpreted as zero.

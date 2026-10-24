@@ -1,0 +1,4 @@
+panel,original_panel,content,source_data
+Supplementary Figure 3E,Supplementary Figure 4B,PCA,Figure_S3E_PCA.csv
+Supplementary Figure 3F,Supplementary Figure 4C,Hallmark/Reactome pathway overview,Figure_S3F_pathway_overview.csv
+Supplementary Figure 3G,Supplementary Figure 4D,Inflammatory sample scores and GSEA,Figure_S3G_sample_scores.csv;Figure_S3G_GSEA.csv

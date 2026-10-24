@@ -1,0 +1,39 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "pandas": "3.0.1",
+  "matplotlib": "3.11.2",
+  "font": "Arial Bold",
+  "font_size_pt": 10,
+  "rendered_collision_checks": {
+    "Figure_S3E_PCA.png.pdf.audit.json": {
+      "verdict": "PASS",
+      "summary": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 0,
+        "contained_image_overlays": 0
+      }
+    },
+    "Figure_S3F_pathway_overview.png.pdf.audit.json": {
+      "verdict": "PASS",
+      "summary": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 0,
+        "contained_image_overlays": 0
+      }
+    },
+    "Figure_S3G_inflammatory_programs.png.pdf.audit.json": {
+      "verdict": "PASS",
+      "summary": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 0,
+        "contained_image_overlays": 0
+      }
+    }
+  },
+  "visual_review": "All three previews inspected; values and directions match original panels. These are independent data-verification previews, not replacements for the manuscript composite.",
+  "export_scope": "PNG data-verification previews only; generic SVG/TIFF submission-export checks are not applicable to this data-upload package."
+}

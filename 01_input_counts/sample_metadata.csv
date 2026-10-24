@@ -1,0 +1,13 @@
+sample,time,replicate,sizeFactor,sample_id,donor_code,experimental_unit,treatment,time_matched_unstimulated_control_available,separate_technical_batch_metadata,cell_type,original_donor_identifier,display_order
+S50_0_1,0,1,0.93202174266204496,S50_0_1,Donor_1,independent experiment; matched across time,untreated / pre-IL-17A baseline,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,1
+S50_0_2,0,2,1.0540968597148801,S50_0_2,Donor_1,independent experiment; matched across time,untreated / pre-IL-17A baseline,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,2
+S50_0_3,0,3,0.96733071573703899,S50_0_3,Donor_1,independent experiment; matched across time,untreated / pre-IL-17A baseline,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,3
+S50_3_1,3,1,0.85301103403818301,S50_3_1,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,4
+S50_3_2,3,2,0.974172442415005,S50_3_2,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,5
+S50_3_3,3,3,1.0841376982152,S50_3_3,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,6
+S50_12_1,12,1,0.99641744544509903,S50_12_1,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,7
+S50_12_2,12,2,1.0449530279902099,S50_12_2,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,8
+S50_12_3,12,3,0.97933553750802005,S50_12_3,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,9
+S50_24_1,24,1,1.22367652903811,S50_24_1,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,10
+S50_24_2,24,2,0.92312273930397803,S50_24_2,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,11
+S50_24_3,24,3,1.0732236432044899,S50_24_3,Donor_1,independent experiment; matched across time,IL-17A 50 ng/mL,False,not recorded,human ADSC,not supplied; Donor_1 is an anonymized package label,12

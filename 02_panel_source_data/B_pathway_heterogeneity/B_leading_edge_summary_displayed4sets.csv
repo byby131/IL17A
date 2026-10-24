@@ -1,0 +1,13 @@
+pathway,contrast,tested,NES,pathway_BH_FDR,n_leading_edge,n_Group5,fraction_Group5,n_positive_log2FC,n_negative_log2FC,n_gene_significant_up,n_gene_significant_down,leading_edge_type,interpretation,figure_column_order
+HALLMARK_TGF_BETA_SIGNALING,3_vs_0,True,1.40673243638496,0.18975903614457801,16,0,0,16,0,7,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,1
+REACTOME_SIGNALING_BY_BMP,3_vs_0,True,1.69365104976431,0.26465375465040197,6,1,0.1666666666666666,6,0,2,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,2
+REACTOME_SIGNALING_BY_TGFB_FAMILY_MEMBERS,3_vs_0,True,1.6185202856041101,0.22466779889565,30,2,0.066666666666666596,30,0,9,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,4
+REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS,3_vs_0,True,1.27344751064393,0.51659654043945802,13,2,0.1538461538461538,13,0,3,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,3
+HALLMARK_TGF_BETA_SIGNALING,12_vs_0,True,1.4081347571693901,0.121557393060218,13,4,0.30769230769230771,13,0,13,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,1
+REACTOME_SIGNALING_BY_BMP,12_vs_0,True,-1.3751228933722599,0.33952963680506199,7,0,0,0,7,0,7,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,2
+REACTOME_SIGNALING_BY_TGFB_FAMILY_MEMBERS,12_vs_0,True,-1.2485108239548399,0.289871828752643,35,0,0,0,35,0,35,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,4
+REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS,12_vs_0,True,1.1434555577824399,0.51372512896094302,16,3,0.1875,16,0,14,0,positive-enrichment,descriptive_only_pathway_FDR_ge_0.05,3
+HALLMARK_TGF_BETA_SIGNALING,24_vs_0,True,-1.4474299851244199,0.071417004048583005,15,0,0,0,15,0,15,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,1
+REACTOME_SIGNALING_BY_BMP,24_vs_0,True,-1.4061493020183,0.30856383315399699,9,0,0,0,9,0,9,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,2
+REACTOME_SIGNALING_BY_TGFB_FAMILY_MEMBERS,24_vs_0,True,-1.4413734080621801,0.083473239715757597,34,0,0,0,34,0,34,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,4
+REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS,24_vs_0,True,-0.96530718939181004,0.70835515898102797,13,0,0,0,13,0,13,negative-enrichment,descriptive_only_pathway_FDR_ge_0.05,3

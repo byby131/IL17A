@@ -1,0 +1,5 @@
+"file","url","sha256","download_date"
+"references/kegg_20260913/database_info.txt","https://rest.kegg.jp/info/pathway","c6f0ff8228201bd1852438e70f58f495f4f751ce8cf24da7801449c36641915d","2026-09-13"
+"references/kegg_20260913/gene_pathway.tsv","https://rest.kegg.jp/link/pathway/hsa","9d20c77e4a027e5215717d6eafee1f6ebf10f6bdb64e3b476152ed96d70e9fb5","2026-09-13"
+"references/kegg_20260913/pathway_hierarchy.json","https://rest.kegg.jp/get/br:br08901/json","9c5a163abf6b0994c6b969a0746304dd1e050cc8b07528b0da9fd4efaff8f93f","2026-09-13"
+"references/kegg_20260913/pathway_names.tsv","https://rest.kegg.jp/list/pathway/hsa","345290b203a665fa7604f36ba51d78095a712c6c02820fb09fde82a5a90c0a3a","2026-09-13"

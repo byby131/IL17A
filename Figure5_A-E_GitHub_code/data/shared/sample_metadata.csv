@@ -1,0 +1,7 @@
+"sample_id","count_column","condition","replicate_type","donor_id","batch","display_order","cell_type","induction_days","maintenance_days","harvest_day","IL17A_ng_ml","IL17A_added_at","IL17A_replenished_at"
+"NC_1","Figure5_adipogenesis__L1MLD1301558-NC_1","vehicle","independent_biological",NA,NA,1,"human ADSC",3,4,7,0,NA,NA
+"NC_2","Figure5_adipogenesis__L1MLD1301559-NC_2","vehicle","independent_biological",NA,NA,2,"human ADSC",3,4,7,0,NA,NA
+"NC_3","Figure5_adipogenesis__L1MLD1301560-NC_3","vehicle","independent_biological",NA,NA,3,"human ADSC",3,4,7,0,NA,NA
+"IL17_1","Figure5_adipogenesis__L1MLD1301561-IL17_1","IL17A","independent_biological",NA,NA,4,"human ADSC",3,4,7,50,NA,NA
+"IL17_2","Figure5_adipogenesis__L1MLD1301562-IL17_2","IL17A","independent_biological",NA,NA,5,"human ADSC",3,4,7,50,NA,NA
+"IL17_3","Figure5_adipogenesis__L1MLD1301563-IL17_3","IL17A","independent_biological",NA,NA,6,"human ADSC",3,4,7,50,NA,NA

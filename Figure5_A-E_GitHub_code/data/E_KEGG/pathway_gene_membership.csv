@@ -1,0 +1,504 @@
+﻿direction,pathway_id,pathway_name,gene_id
+up,hsa05171,Coronavirus disease,C1R
+up,hsa05171,Coronavirus disease,C1S
+up,hsa05171,Coronavirus disease,C2
+up,hsa05171,Coronavirus disease,C3
+up,hsa05171,Coronavirus disease,CCL2
+up,hsa05171,Coronavirus disease,CFB
+up,hsa05171,Coronavirus disease,CSF3
+up,hsa05171,Coronavirus disease,CXCL8
+up,hsa05171,Coronavirus disease,IKBKB
+up,hsa05171,Coronavirus disease,IKBKE
+up,hsa05171,Coronavirus disease,IL6
+up,hsa05171,Coronavirus disease,IL6ST
+up,hsa05171,Coronavirus disease,MMP1
+up,hsa05171,Coronavirus disease,MMP3
+up,hsa05171,Coronavirus disease,NFKB1
+up,hsa05171,Coronavirus disease,NFKBIA
+up,hsa05171,Coronavirus disease,PIK3CD
+up,hsa05171,Coronavirus disease,RELA
+up,hsa05171,Coronavirus disease,RPL10A
+up,hsa05171,Coronavirus disease,RPL13
+up,hsa05171,Coronavirus disease,RPL13A
+up,hsa05171,Coronavirus disease,RPL18A
+up,hsa05171,Coronavirus disease,RPL19
+up,hsa05171,Coronavirus disease,RPL28
+up,hsa05171,Coronavirus disease,RPL3
+up,hsa05171,Coronavirus disease,RPL35
+up,hsa05171,Coronavirus disease,RPL36
+up,hsa05171,Coronavirus disease,RPL37A
+up,hsa05171,Coronavirus disease,RPL38
+up,hsa05171,Coronavirus disease,RPL4
+up,hsa05171,Coronavirus disease,RPL8
+up,hsa05171,Coronavirus disease,RPLP0
+up,hsa05171,Coronavirus disease,RPLP2
+up,hsa05171,Coronavirus disease,RPS11
+up,hsa05171,Coronavirus disease,RPS16
+up,hsa05171,Coronavirus disease,RPS2
+up,hsa05171,Coronavirus disease,RPS21
+up,hsa05171,Coronavirus disease,RPS25
+up,hsa05171,Coronavirus disease,RPS27
+up,hsa05171,Coronavirus disease,RPS28
+up,hsa05171,Coronavirus disease,RPS29
+up,hsa05171,Coronavirus disease,RPS3
+up,hsa05171,Coronavirus disease,RPS5
+up,hsa05171,Coronavirus disease,RPS9
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,ACKR3
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,ACKR4
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CCL2
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CCL20
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CCL8
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CSF1
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL1
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL12
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL2
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL3
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL5
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL6
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,CXCL8
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,IL6
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,IL6ST
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,PF4
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,PF4V1
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,TNFRSF10B
+up,hsa04061,Viral protein interaction with cytokine and cytokine receptor,TNFSF14
+up,hsa04657,IL-17 signaling pathway,CCL2
+up,hsa04657,IL-17 signaling pathway,CCL20
+up,hsa04657,IL-17 signaling pathway,CEBPB
+up,hsa04657,IL-17 signaling pathway,CSF3
+up,hsa04657,IL-17 signaling pathway,CXCL1
+up,hsa04657,IL-17 signaling pathway,CXCL2
+up,hsa04657,IL-17 signaling pathway,CXCL3
+up,hsa04657,IL-17 signaling pathway,CXCL5
+up,hsa04657,IL-17 signaling pathway,CXCL6
+up,hsa04657,IL-17 signaling pathway,CXCL8
+up,hsa04657,IL-17 signaling pathway,IKBKB
+up,hsa04657,IL-17 signaling pathway,IKBKE
+up,hsa04657,IL-17 signaling pathway,IL6
+up,hsa04657,IL-17 signaling pathway,JUND
+up,hsa04657,IL-17 signaling pathway,MMP1
+up,hsa04657,IL-17 signaling pathway,MMP3
+up,hsa04657,IL-17 signaling pathway,NFKB1
+up,hsa04657,IL-17 signaling pathway,NFKBIA
+up,hsa04657,IL-17 signaling pathway,PTGS2
+up,hsa04657,IL-17 signaling pathway,RELA
+up,hsa04657,IL-17 signaling pathway,TNFAIP3
+up,hsa04657,IL-17 signaling pathway,TRAF3IP2
+up,hsa04060,Cytokine-cytokine receptor interaction,ACKR3
+up,hsa04060,Cytokine-cytokine receptor interaction,ACKR4
+up,hsa04060,Cytokine-cytokine receptor interaction,CCL2
+up,hsa04060,Cytokine-cytokine receptor interaction,CCL20
+up,hsa04060,Cytokine-cytokine receptor interaction,CCL8
+up,hsa04060,Cytokine-cytokine receptor interaction,CSF1
+up,hsa04060,Cytokine-cytokine receptor interaction,CSF3
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL1
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL12
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL2
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL3
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL5
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL6
+up,hsa04060,Cytokine-cytokine receptor interaction,CXCL8
+up,hsa04060,Cytokine-cytokine receptor interaction,GDF11
+up,hsa04060,Cytokine-cytokine receptor interaction,GDF15
+up,hsa04060,Cytokine-cytokine receptor interaction,IL15RA
+up,hsa04060,Cytokine-cytokine receptor interaction,IL1RL1
+up,hsa04060,Cytokine-cytokine receptor interaction,IL21R
+up,hsa04060,Cytokine-cytokine receptor interaction,IL32
+up,hsa04060,Cytokine-cytokine receptor interaction,IL6
+up,hsa04060,Cytokine-cytokine receptor interaction,IL6ST
+up,hsa04060,Cytokine-cytokine receptor interaction,IL7
+up,hsa04060,Cytokine-cytokine receptor interaction,INHBA
+up,hsa04060,Cytokine-cytokine receptor interaction,LEP
+up,hsa04060,Cytokine-cytokine receptor interaction,LIF
+up,hsa04060,Cytokine-cytokine receptor interaction,PF4
+up,hsa04060,Cytokine-cytokine receptor interaction,PF4V1
+up,hsa04060,Cytokine-cytokine receptor interaction,TGFBR1
+up,hsa04060,Cytokine-cytokine receptor interaction,TNFRSF10B
+up,hsa04060,Cytokine-cytokine receptor interaction,TNFRSF11B
+up,hsa04060,Cytokine-cytokine receptor interaction,TNFRSF12A
+up,hsa04060,Cytokine-cytokine receptor interaction,TNFRSF19
+up,hsa04060,Cytokine-cytokine receptor interaction,TNFSF14
+up,hsa04668,TNF signaling pathway,ATF4
+up,hsa04668,TNF signaling pathway,BCL3
+up,hsa04668,TNF signaling pathway,CCL2
+up,hsa04668,TNF signaling pathway,CCL20
+up,hsa04668,TNF signaling pathway,CEBPB
+up,hsa04668,TNF signaling pathway,CREB3L1
+up,hsa04668,TNF signaling pathway,CSF1
+up,hsa04668,TNF signaling pathway,CXCL1
+up,hsa04668,TNF signaling pathway,CXCL2
+up,hsa04668,TNF signaling pathway,CXCL3
+up,hsa04668,TNF signaling pathway,CXCL5
+up,hsa04668,TNF signaling pathway,CXCL6
+up,hsa04668,TNF signaling pathway,ICAM1
+up,hsa04668,TNF signaling pathway,IKBKB
+up,hsa04668,TNF signaling pathway,IL6
+up,hsa04668,TNF signaling pathway,JUNB
+up,hsa04668,TNF signaling pathway,LIF
+up,hsa04668,TNF signaling pathway,MAP3K8
+up,hsa04668,TNF signaling pathway,MMP3
+up,hsa04668,TNF signaling pathway,NFKB1
+up,hsa04668,TNF signaling pathway,NFKBIA
+up,hsa04668,TNF signaling pathway,PIK3CD
+up,hsa04668,TNF signaling pathway,PTGS2
+up,hsa04668,TNF signaling pathway,RELA
+up,hsa04668,TNF signaling pathway,SOCS3
+up,hsa04668,TNF signaling pathway,TNFAIP3
+up,hsa04978,Mineral absorption,FTH1
+up,hsa04978,Mineral absorption,HMOX1
+up,hsa04978,Mineral absorption,MT1E
+up,hsa04978,Mineral absorption,MT1F
+up,hsa04978,Mineral absorption,MT1G
+up,hsa04978,Mineral absorption,MT1H
+up,hsa04978,Mineral absorption,MT1M
+up,hsa04978,Mineral absorption,MT1X
+up,hsa04978,Mineral absorption,MT2A
+up,hsa04978,Mineral absorption,SLC11A2
+up,hsa04978,Mineral absorption,SLC30A1
+up,hsa04978,Mineral absorption,STEAP1
+up,hsa04978,Mineral absorption,STEAP2
+up,hsa04978,Mineral absorption,VDR
+up,hsa05323,Rheumatoid arthritis,ATP6V0B
+up,hsa05323,Rheumatoid arthritis,ATP6V0C
+up,hsa05323,Rheumatoid arthritis,CCL2
+up,hsa05323,Rheumatoid arthritis,CCL20
+up,hsa05323,Rheumatoid arthritis,CSF1
+up,hsa05323,Rheumatoid arthritis,CXCL1
+up,hsa05323,Rheumatoid arthritis,CXCL12
+up,hsa05323,Rheumatoid arthritis,CXCL2
+up,hsa05323,Rheumatoid arthritis,CXCL3
+up,hsa05323,Rheumatoid arthritis,CXCL5
+up,hsa05323,Rheumatoid arthritis,CXCL6
+up,hsa05323,Rheumatoid arthritis,CXCL8
+up,hsa05323,Rheumatoid arthritis,ICAM1
+up,hsa05323,Rheumatoid arthritis,IL6
+up,hsa05323,Rheumatoid arthritis,MMP1
+up,hsa05323,Rheumatoid arthritis,MMP3
+up,hsa05323,Rheumatoid arthritis,VEGFA
+up,hsa01230,Biosynthesis of amino acids,ACO1
+up,hsa01230,Biosynthesis of amino acids,ALDOA
+up,hsa01230,Biosynthesis of amino acids,ALDOC
+up,hsa01230,Biosynthesis of amino acids,ASNS
+up,hsa01230,Biosynthesis of amino acids,ASS1
+up,hsa01230,Biosynthesis of amino acids,BCAT1
+up,hsa01230,Biosynthesis of amino acids,ENO1
+up,hsa01230,Biosynthesis of amino acids,GAPDH
+up,hsa01230,Biosynthesis of amino acids,PGAM1
+up,hsa01230,Biosynthesis of amino acids,PGK1
+up,hsa01230,Biosynthesis of amino acids,PHGDH
+up,hsa01230,Biosynthesis of amino acids,PKM
+up,hsa01230,Biosynthesis of amino acids,PSAT1
+up,hsa01230,Biosynthesis of amino acids,PYCR1
+up,hsa01230,Biosynthesis of amino acids,SHMT2
+up,hsa01230,Biosynthesis of amino acids,TPI1
+up,hsa04066,HIF-1 signaling pathway,ALDOA
+up,hsa04066,HIF-1 signaling pathway,ALDOC
+up,hsa04066,HIF-1 signaling pathway,EGLN1
+up,hsa04066,HIF-1 signaling pathway,EGLN2
+up,hsa04066,HIF-1 signaling pathway,EIF4EBP1
+up,hsa04066,HIF-1 signaling pathway,ENO1
+up,hsa04066,HIF-1 signaling pathway,EPAS1
+up,hsa04066,HIF-1 signaling pathway,GAPDH
+up,hsa04066,HIF-1 signaling pathway,HIF1A
+up,hsa04066,HIF-1 signaling pathway,HMOX1
+up,hsa04066,HIF-1 signaling pathway,IL6
+up,hsa04066,HIF-1 signaling pathway,LDHA
+up,hsa04066,HIF-1 signaling pathway,NFKB1
+up,hsa04066,HIF-1 signaling pathway,PDK1
+up,hsa04066,HIF-1 signaling pathway,PGK1
+up,hsa04066,HIF-1 signaling pathway,PIK3CD
+up,hsa04066,HIF-1 signaling pathway,RELA
+up,hsa04066,HIF-1 signaling pathway,SERPINE1
+up,hsa04066,HIF-1 signaling pathway,SLC2A1
+up,hsa04066,HIF-1 signaling pathway,TFRC
+up,hsa04066,HIF-1 signaling pathway,VEGFA
+up,hsa04974,Protein digestion and absorption,COL11A1
+up,hsa04974,Protein digestion and absorption,COL15A1
+up,hsa04974,Protein digestion and absorption,COL16A1
+up,hsa04974,Protein digestion and absorption,COL1A1
+up,hsa04974,Protein digestion and absorption,COL1A2
+up,hsa04974,Protein digestion and absorption,COL3A1
+up,hsa04974,Protein digestion and absorption,COL4A4
+up,hsa04974,Protein digestion and absorption,COL5A1
+up,hsa04974,Protein digestion and absorption,COL5A2
+up,hsa04974,Protein digestion and absorption,COL6A1
+up,hsa04974,Protein digestion and absorption,DPP4
+up,hsa04974,Protein digestion and absorption,ELN
+up,hsa04974,Protein digestion and absorption,MME
+up,hsa04974,Protein digestion and absorption,SLC1A5
+up,hsa04974,Protein digestion and absorption,SLC3A2
+down,hsa04810,Regulation of actin cytoskeleton,ACTR2
+down,hsa04810,Regulation of actin cytoskeleton,ACTR3
+down,hsa04810,Regulation of actin cytoskeleton,APC
+down,hsa04810,Regulation of actin cytoskeleton,ARHGEF6
+down,hsa04810,Regulation of actin cytoskeleton,ARPC2
+down,hsa04810,Regulation of actin cytoskeleton,C7
+down,hsa04810,Regulation of actin cytoskeleton,DIAPH3
+down,hsa04810,Regulation of actin cytoskeleton,EGFR
+down,hsa04810,Regulation of actin cytoskeleton,F2R
+down,hsa04810,Regulation of actin cytoskeleton,FGF5
+down,hsa04810,Regulation of actin cytoskeleton,FGFR1
+down,hsa04810,Regulation of actin cytoskeleton,GIT1
+down,hsa04810,Regulation of actin cytoskeleton,GNG12
+down,hsa04810,Regulation of actin cytoskeleton,IQGAP1
+down,hsa04810,Regulation of actin cytoskeleton,ITGA10
+down,hsa04810,Regulation of actin cytoskeleton,ITGA3
+down,hsa04810,Regulation of actin cytoskeleton,ITGA4
+down,hsa04810,Regulation of actin cytoskeleton,ITGA6
+down,hsa04810,Regulation of actin cytoskeleton,ITGB3
+down,hsa04810,Regulation of actin cytoskeleton,MSN
+down,hsa04810,Regulation of actin cytoskeleton,MYL12A
+down,hsa04810,Regulation of actin cytoskeleton,MYL12B
+down,hsa04810,Regulation of actin cytoskeleton,MYLK
+down,hsa04810,Regulation of actin cytoskeleton,NCKAP1
+down,hsa04810,Regulation of actin cytoskeleton,PAK3
+down,hsa04810,Regulation of actin cytoskeleton,PDGFD
+down,hsa04810,Regulation of actin cytoskeleton,PDGFRB
+down,hsa04810,Regulation of actin cytoskeleton,PIK3R1
+down,hsa04810,Regulation of actin cytoskeleton,PIP4K2A
+down,hsa04810,Regulation of actin cytoskeleton,RDX
+down,hsa04810,Regulation of actin cytoskeleton,RGCC
+down,hsa04810,Regulation of actin cytoskeleton,RHOA
+down,hsa04810,Regulation of actin cytoskeleton,ROCK1
+down,hsa04810,Regulation of actin cytoskeleton,ROCK2
+down,hsa04810,Regulation of actin cytoskeleton,RRAS2
+down,hsa04810,Regulation of actin cytoskeleton,TMSB4X
+down,hsa04810,Regulation of actin cytoskeleton,VCL
+down,hsa04810,Regulation of actin cytoskeleton,WASL
+down,hsa04820,Cytoskeleton in muscle cells,ANK2
+down,hsa04820,Cytoskeleton in muscle cells,ATP1B1
+down,hsa04820,Cytoskeleton in muscle cells,COL5A3
+down,hsa04820,Cytoskeleton in muscle cells,COL6A3
+down,hsa04820,Cytoskeleton in muscle cells,COMP
+down,hsa04820,Cytoskeleton in muscle cells,DAAM2
+down,hsa04820,Cytoskeleton in muscle cells,DIAPH3
+down,hsa04820,Cytoskeleton in muscle cells,DSP
+down,hsa04820,Cytoskeleton in muscle cells,FBN2
+down,hsa04820,Cytoskeleton in muscle cells,FHL1
+down,hsa04820,Cytoskeleton in muscle cells,FMNL2
+down,hsa04820,Cytoskeleton in muscle cells,ITGA10
+down,hsa04820,Cytoskeleton in muscle cells,ITGA3
+down,hsa04820,Cytoskeleton in muscle cells,ITGA4
+down,hsa04820,Cytoskeleton in muscle cells,ITGA6
+down,hsa04820,Cytoskeleton in muscle cells,ITGB3
+down,hsa04820,Cytoskeleton in muscle cells,LAMA2
+down,hsa04820,Cytoskeleton in muscle cells,LMNA
+down,hsa04820,Cytoskeleton in muscle cells,LMOD1
+down,hsa04820,Cytoskeleton in muscle cells,NEBL
+down,hsa04820,Cytoskeleton in muscle cells,NID1
+down,hsa04820,Cytoskeleton in muscle cells,NID2
+down,hsa04820,Cytoskeleton in muscle cells,PDLIM5
+down,hsa04820,Cytoskeleton in muscle cells,SGCB
+down,hsa04820,Cytoskeleton in muscle cells,SGCE
+down,hsa04820,Cytoskeleton in muscle cells,SPTBN1
+down,hsa04820,Cytoskeleton in muscle cells,SSPN
+down,hsa04820,Cytoskeleton in muscle cells,SYNE2
+down,hsa04820,Cytoskeleton in muscle cells,SYNE3
+down,hsa04820,Cytoskeleton in muscle cells,SYNPO2
+down,hsa04820,Cytoskeleton in muscle cells,TMOD2
+down,hsa04820,Cytoskeleton in muscle cells,TNNT3
+down,hsa04820,Cytoskeleton in muscle cells,TPM1
+down,hsa04820,Cytoskeleton in muscle cells,TPM4
+down,hsa04820,Cytoskeleton in muscle cells,VCL
+down,hsa04820,Cytoskeleton in muscle cells,VIM
+down,hsa04517,IgSF CAM signaling,ACTR2
+down,hsa04517,IgSF CAM signaling,ACTR3
+down,hsa04517,IgSF CAM signaling,ANK2
+down,hsa04517,IgSF CAM signaling,ARPC2
+down,hsa04517,IgSF CAM signaling,EPB41L2
+down,hsa04517,IgSF CAM signaling,ERC1
+down,hsa04517,IgSF CAM signaling,FGFR1
+down,hsa04517,IgSF CAM signaling,FOXO1
+down,hsa04517,IgSF CAM signaling,GIT1
+down,hsa04517,IgSF CAM signaling,IQGAP1
+down,hsa04517,IgSF CAM signaling,ITGA4
+down,hsa04517,IgSF CAM signaling,ITGB3
+down,hsa04517,IgSF CAM signaling,LMO7
+down,hsa04517,IgSF CAM signaling,MBP
+down,hsa04517,IgSF CAM signaling,MSN
+down,hsa04517,IgSF CAM signaling,MTSS1
+down,hsa04517,IgSF CAM signaling,MYL12A
+down,hsa04517,IgSF CAM signaling,MYL12B
+down,hsa04517,IgSF CAM signaling,MYL6
+down,hsa04517,IgSF CAM signaling,MYLK
+down,hsa04517,IgSF CAM signaling,NECTIN3
+down,hsa04517,IgSF CAM signaling,NFASC
+down,hsa04517,IgSF CAM signaling,PAK3
+down,hsa04517,IgSF CAM signaling,PIK3R1
+down,hsa04517,IgSF CAM signaling,PLXNA3
+down,hsa04517,IgSF CAM signaling,PLXNA4
+down,hsa04517,IgSF CAM signaling,PRKCI
+down,hsa04517,IgSF CAM signaling,PTPN11
+down,hsa04517,IgSF CAM signaling,RAP1A
+down,hsa04517,IgSF CAM signaling,RASA1
+down,hsa04517,IgSF CAM signaling,RDX
+down,hsa04517,IgSF CAM signaling,RHOA
+down,hsa04517,IgSF CAM signaling,RIMS1
+down,hsa04517,IgSF CAM signaling,SORBS1
+down,hsa04517,IgSF CAM signaling,SPTBN1
+down,hsa04517,IgSF CAM signaling,TJP2
+down,hsa04517,IgSF CAM signaling,TRIO
+down,hsa04517,IgSF CAM signaling,VCL
+down,hsa04517,IgSF CAM signaling,WASL
+down,hsa04510,Focal adhesion,CAPN2
+down,hsa04510,Focal adhesion,CAV1
+down,hsa04510,Focal adhesion,CAV2
+down,hsa04510,Focal adhesion,CCND1
+down,hsa04510,Focal adhesion,COL6A3
+down,hsa04510,Focal adhesion,COMP
+down,hsa04510,Focal adhesion,EGFR
+down,hsa04510,Focal adhesion,IGF1R
+down,hsa04510,Focal adhesion,ITGA10
+down,hsa04510,Focal adhesion,ITGA3
+down,hsa04510,Focal adhesion,ITGA4
+down,hsa04510,Focal adhesion,ITGA6
+down,hsa04510,Focal adhesion,ITGB3
+down,hsa04510,Focal adhesion,LAMA2
+down,hsa04510,Focal adhesion,LAMA3
+down,hsa04510,Focal adhesion,LAMA4
+down,hsa04510,Focal adhesion,MET
+down,hsa04510,Focal adhesion,MYL12A
+down,hsa04510,Focal adhesion,MYL12B
+down,hsa04510,Focal adhesion,MYLK
+down,hsa04510,Focal adhesion,PAK3
+down,hsa04510,Focal adhesion,PARVA
+down,hsa04510,Focal adhesion,PDGFD
+down,hsa04510,Focal adhesion,PDGFRB
+down,hsa04510,Focal adhesion,PIK3R1
+down,hsa04510,Focal adhesion,RAP1A
+down,hsa04510,Focal adhesion,RAPGEF1
+down,hsa04510,Focal adhesion,RELN
+down,hsa04510,Focal adhesion,RHOA
+down,hsa04510,Focal adhesion,ROCK1
+down,hsa04510,Focal adhesion,ROCK2
+down,hsa04510,Focal adhesion,SHC3
+down,hsa04510,Focal adhesion,VCL
+down,hsa05205,Proteoglycans in cancer,ANK2
+down,hsa05205,Proteoglycans in cancer,CAMK2D
+down,hsa05205,Proteoglycans in cancer,CAV1
+down,hsa05205,Proteoglycans in cancer,CAV2
+down,hsa05205,Proteoglycans in cancer,CBL
+down,hsa05205,Proteoglycans in cancer,CCND1
+down,hsa05205,Proteoglycans in cancer,CD44
+down,hsa05205,Proteoglycans in cancer,CTSL
+down,hsa05205,Proteoglycans in cancer,DDX5
+down,hsa05205,Proteoglycans in cancer,EGFR
+down,hsa05205,Proteoglycans in cancer,FGFR1
+down,hsa05205,Proteoglycans in cancer,FZD4
+down,hsa05205,Proteoglycans in cancer,FZD6
+down,hsa05205,Proteoglycans in cancer,GAB1
+down,hsa05205,Proteoglycans in cancer,IGF1R
+down,hsa05205,Proteoglycans in cancer,IQGAP1
+down,hsa05205,Proteoglycans in cancer,ITGB3
+down,hsa05205,Proteoglycans in cancer,MET
+down,hsa05205,Proteoglycans in cancer,MSN
+down,hsa05205,Proteoglycans in cancer,PDCD4
+down,hsa05205,Proteoglycans in cancer,PIK3R1
+down,hsa05205,Proteoglycans in cancer,PLCE1
+down,hsa05205,Proteoglycans in cancer,PTPN11
+down,hsa05205,Proteoglycans in cancer,RDX
+down,hsa05205,Proteoglycans in cancer,RHOA
+down,hsa05205,Proteoglycans in cancer,ROCK1
+down,hsa05205,Proteoglycans in cancer,ROCK2
+down,hsa05205,Proteoglycans in cancer,RRAS2
+down,hsa05205,Proteoglycans in cancer,SMAD2
+down,hsa05205,Proteoglycans in cancer,TIMP3
+down,hsa05410,Hypertrophic cardiomyopathy,ACE
+down,hsa05410,Hypertrophic cardiomyopathy,ITGA10
+down,hsa05410,Hypertrophic cardiomyopathy,ITGA3
+down,hsa05410,Hypertrophic cardiomyopathy,ITGA4
+down,hsa05410,Hypertrophic cardiomyopathy,ITGA6
+down,hsa05410,Hypertrophic cardiomyopathy,ITGB3
+down,hsa05410,Hypertrophic cardiomyopathy,LAMA2
+down,hsa05410,Hypertrophic cardiomyopathy,LMNA
+down,hsa05410,Hypertrophic cardiomyopathy,PRKAA1
+down,hsa05410,Hypertrophic cardiomyopathy,PRKAB2
+down,hsa05410,Hypertrophic cardiomyopathy,PRKAG2
+down,hsa05410,Hypertrophic cardiomyopathy,SGCB
+down,hsa05410,Hypertrophic cardiomyopathy,SGCE
+down,hsa05410,Hypertrophic cardiomyopathy,SLC8A1
+down,hsa05410,Hypertrophic cardiomyopathy,SSPN
+down,hsa05410,Hypertrophic cardiomyopathy,TPM1
+down,hsa05410,Hypertrophic cardiomyopathy,TPM4
+down,hsa04520,Adherens junction,ARHGAP29
+down,hsa04520,Adherens junction,CTNNA1
+down,hsa04520,Adherens junction,EGFR
+down,hsa04520,Adherens junction,FGFR1
+down,hsa04520,Adherens junction,IGF1R
+down,hsa04520,Adherens junction,IQGAP1
+down,hsa04520,Adherens junction,LMO7
+down,hsa04520,Adherens junction,MET
+down,hsa04520,Adherens junction,MYL12A
+down,hsa04520,Adherens junction,MYL12B
+down,hsa04520,Adherens junction,NECTIN3
+down,hsa04520,Adherens junction,RAP1A
+down,hsa04520,Adherens junction,RHOA
+down,hsa04520,Adherens junction,ROCK1
+down,hsa04520,Adherens junction,ROCK2
+down,hsa04520,Adherens junction,SORBS1
+down,hsa04520,Adherens junction,VCL
+down,hsa04520,Adherens junction,WASL
+down,hsa05206,MicroRNAs in cancer,APC
+down,hsa05206,MicroRNAs in cancer,BRCA1
+down,hsa05206,MicroRNAs in cancer,CCND1
+down,hsa05206,MicroRNAs in cancer,CCNG1
+down,hsa05206,MicroRNAs in cancer,CD44
+down,hsa05206,MicroRNAs in cancer,EGFR
+down,hsa05206,MicroRNAs in cancer,ITGB3
+down,hsa05206,MicroRNAs in cancer,KIF23
+down,hsa05206,MicroRNAs in cancer,MCL1
+down,hsa05206,MicroRNAs in cancer,MET
+down,hsa05206,MicroRNAs in cancer,NOTCH3
+down,hsa05206,MicroRNAs in cancer,PDCD4
+down,hsa05206,MicroRNAs in cancer,PDGFRB
+down,hsa05206,MicroRNAs in cancer,PIK3R1
+down,hsa05206,MicroRNAs in cancer,RDX
+down,hsa05206,MicroRNAs in cancer,RECK
+down,hsa05206,MicroRNAs in cancer,RHOA
+down,hsa05206,MicroRNAs in cancer,ROCK1
+down,hsa05206,MicroRNAs in cancer,SPRY2
+down,hsa05206,MicroRNAs in cancer,STMN1
+down,hsa05206,MicroRNAs in cancer,TIMP3
+down,hsa05206,MicroRNAs in cancer,TPM1
+down,hsa05206,MicroRNAs in cancer,VIM
+down,hsa05206,MicroRNAs in cancer,ZEB1
+down,hsa05206,MicroRNAs in cancer,ZFPM2
+down,hsa04814,Motor proteins,ACTA2
+down,hsa04814,Motor proteins,CENPE
+down,hsa04814,Motor proteins,DCTN5
+down,hsa04814,Motor proteins,DYNC1I2
+down,hsa04814,Motor proteins,KIF11
+down,hsa04814,Motor proteins,KIF14
+down,hsa04814,Motor proteins,KIF15
+down,hsa04814,Motor proteins,KIF1C
+down,hsa04814,Motor proteins,KIF20A
+down,hsa04814,Motor proteins,KIF20B
+down,hsa04814,Motor proteins,KIF23
+down,hsa04814,Motor proteins,KIF2C
+down,hsa04814,Motor proteins,KIF4A
+down,hsa04814,Motor proteins,KIFAP3
+down,hsa04814,Motor proteins,MYL12A
+down,hsa04814,Motor proteins,MYL12B
+down,hsa04814,Motor proteins,MYL6
+down,hsa04814,Motor proteins,MYO10
+down,hsa04814,Motor proteins,MYO1D
+down,hsa04814,Motor proteins,MYO1E
+down,hsa04814,Motor proteins,MYO6
+down,hsa04814,Motor proteins,TNNT3
+down,hsa04814,Motor proteins,TPM1
+down,hsa04814,Motor proteins,TPM4
+down,hsa05100,Bacterial invasion of epithelial cells,ACTR2
+down,hsa05100,Bacterial invasion of epithelial cells,ACTR3
+down,hsa05100,Bacterial invasion of epithelial cells,ARPC2
+down,hsa05100,Bacterial invasion of epithelial cells,CAV1
+down,hsa05100,Bacterial invasion of epithelial cells,CAV2
+down,hsa05100,Bacterial invasion of epithelial cells,CBL
+down,hsa05100,Bacterial invasion of epithelial cells,CTNNA1
+down,hsa05100,Bacterial invasion of epithelial cells,GAB1
+down,hsa05100,Bacterial invasion of epithelial cells,MET
+down,hsa05100,Bacterial invasion of epithelial cells,PIK3R1
+down,hsa05100,Bacterial invasion of epithelial cells,RHOA
+down,hsa05100,Bacterial invasion of epithelial cells,SEPTIN11
+down,hsa05100,Bacterial invasion of epithelial cells,SHC3
+down,hsa05100,Bacterial invasion of epithelial cells,VCL
+down,hsa05100,Bacterial invasion of epithelial cells,WASL

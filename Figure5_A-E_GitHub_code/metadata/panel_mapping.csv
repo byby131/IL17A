@@ -1,6 +1,0 @@
-current_panel,original_directory,release_directory,original_pdf_panel
-Figure 5A,A_volcano,data/A_volcano,A
-Figure 5B,B_DEG_heatmap,data/B_DEG_heatmap,B
-Figure 5C,E_functional_program_heatmap,data/C_functional_program_heatmap,E
-Figure 5D,F_Adipogenic_TF_heatmap,data/D_adipogenic_TF_heatmap,F
-Figure 5E,C_KEGG,data/E_KEGG,C
